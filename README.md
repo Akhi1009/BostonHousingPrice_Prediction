@@ -12,19 +12,18 @@ Evaluate and compare the performance of each model using key metrics.
 Dataset
 The dataset used in this project is the Boston Housing Prices dataset, which contains 506 instances and 13 features related to housing in various neighborhoods of Boston.
 
-Models Used
+# Models Used
 The project implements and compares the following regression algorithms:
-
 Linear Regression
 Random Forest Regressor
 Support Vector Regressor
-Evaluation Metrics
-To assess the performance of each model, the following metrics will be used:
 
+# Evaluation Metrics
+To assess the performance of each model, the following metrics will be used:
 Mean Squared Error (MSE)
 R-squared (R²)
 
-Key Steps
+# Key Steps
 Data Exploration & Visualization: Visualizing data distributions, feature correlations, and outliers.
 Data Preprocessing: Handling missing values
 Model Training: Training multiple regression models on the cleaned dataset.
