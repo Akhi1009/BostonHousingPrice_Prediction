@@ -14,13 +14,13 @@ The dataset used in this project is the Boston Housing Prices dataset, which con
 
 # Models Used
 The project implements and compares the following regression algorithms:
-Linear Regression
-Random Forest Regressor
+Linear Regression, 
+Random Forest Regressor, 
 Support Vector Regressor
 
 # Evaluation Metrics
 To assess the performance of each model, the following metrics will be used:
-Mean Squared Error (MSE)
+Mean Squared Error (MSE), 
 R-squared (R²)
 
 # Key Steps
